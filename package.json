@@ -1,0 +1,27 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"keywords": [
+		"gradient",
+		"easing",
+		"background"
+	],
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"chroma-js": "^1.4.0",
+		"easing-coordinates": "^2.0.2",
+		"framer": "^0.9.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "59c9a08a-ae7b-4cff-b8a3-a35774b25039",
+		"displayName": "Easing Gradients"
+	},
+	"author": "james daniel",
+	"name": "@framer/rakujira.easing-gradients",
+	"version": "1.4.0"
+}
