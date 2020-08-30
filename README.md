@@ -1,3 +1,9 @@
+# NOTICE
+
+This project is deprecated, and I'm not longer working on Framer components (unless you want to buy me a Framer subscription :P). Use [Benjamin den Boer's Easing Gradient Component](https://packages.framer.com/package/benjamin/easing-gradient) instead!
+
+---
+
 [Easing gradient](https://larsenwork.com/easing-gradients/) component for Framer X, inspired by @larsenwork's sketch-easing-gradient plugin. 
 
 ### Features
